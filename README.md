@@ -9,8 +9,8 @@ This project fetches prices for the top 5 cryptocurrencies from the top 3 exchan
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
-   cd crypto-data-pipeline
+   git clone https://github.com/kiranshendge/Tether-crypto
+   cd Tether-crypto
    ```
 
 2. **Install Dependencies:**
